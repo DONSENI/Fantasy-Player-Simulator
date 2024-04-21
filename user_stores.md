@@ -1,5 +1,5 @@
 User Stories:
-I want to have the option of snake draft or a regualr draft.
+I want to have the option of snake draft or a regualr draft.<br>
 I would like like to be able to draft new players every week.
 As a football fanatic I would like to be able to afford good players, therefore I would like all users to start off with the same resources.
 As a sports fan, I would like multiple leagues, to have the ability to win multiple chamionships concurrently.
